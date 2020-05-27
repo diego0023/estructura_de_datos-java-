@@ -1,4 +1,4 @@
-package pila_doble;
+package lista_doble;
 
 public class Lista {
     private Nodo inicio;
